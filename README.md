@@ -88,7 +88,7 @@ Documentation: [English version](https://github.com/luolongfei/freenom/blob/mast
 </details>
 
 <details>
-    <summary>设置QQ邮箱</summary>
+    <summary>设置QQ邮箱12</summary>
 <br>
 
 在`设置>账户>POP3/IMAP/SMTP/Exchange/CardDAV/CalDAV服务`下，开启`POP3/SMTP服务`
